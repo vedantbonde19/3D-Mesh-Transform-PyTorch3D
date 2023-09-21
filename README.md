@@ -10,13 +10,7 @@ This repository showcases a Python implementation for transforming a 3D model of
 - `plot.py`: Helper file for visualizing 3D meshes. 📊
 - `assets/`: Folder containing the sphere and cube OBJ files. 📁
 
-## Dependencies
 
-Ensure you have the following dependencies installed:
-
-```bash
-pip install torch pytorch3d
-```
 
 ## Execution
 
@@ -27,11 +21,7 @@ git clone https://github.com/your-username/3D-Mesh-Transform-PyTorch3D.git
 cd 3D-Mesh-Transform-PyTorch3D
 ```
 
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+2. Install dependencies: Ensure you have pytorch3d installed for the project. More details regarding the installation process can be found here: https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md
 
 3. Run the main script:
 
